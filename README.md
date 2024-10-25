@@ -18,11 +18,13 @@ Estou em constante busca por oportunidades, que desafiem minhas habilidades e qu
 Estou sempre em busca de novas colaborações e desafios no mundo da tecnologia. Fique à vontade para me contatar; ficarei feliz em explorar como posso contribuir para sua equipe!
 
 <img width=100% src="https://github.com/user-attachments/assets/859bc13b-f951-449b-9744-3eeaa6ccec1b"/>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Lima;I'm+18+years+old;I+from+Brazil;I+Traing+in+Front+End;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<div align="center">  
+<br>
 
+<br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fire+code&size=30&pause=1000&color=670CF7&background=FFFDF700&center=true&vCenter=true&width=435&lines=HI+THRE%2C+My+name+is+BrunoLima;I'am+desing++profissional;+welcome+to+my+world)](https://git.io/typing-svg)
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/Brunosoilvalima" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -81,7 +83,7 @@ Estou sempre em busca de novas colaborações e desafios no mundo da tecnologia.
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreinaoliveira&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreinaoliveira&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinaoliveira&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brunosoilvalima&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Brunosoilvalima&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
 | :-: | :-: |
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brunosoilvalima&bg_color=000000&color=ffffff&line=d782e8&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
