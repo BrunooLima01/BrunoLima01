@@ -1,3 +1,14 @@
+<h1 align="center">Welcome to Read 4 me 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/maykbrito" target="_blank">
+    <img alt="Twitter: maykbrito" src="https://img.shields.io/twitter/follow/maykbrito.svg?style=social" />
+  </a>
+</p>
+
 # Hi There, My name is BrunoLima 👋
 - 👨‍💼 Sou um desenvolvedor Front-End dedicado, Transformo suas Idéais em realidade, Com experiência em criar interfaces elegantes e funcionais que oferecem uma 
 experiência do usuário excepcional e unica.
