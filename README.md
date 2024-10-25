@@ -17,7 +17,7 @@ Estou em constante busca por oportunidades, que desafiem minhas habilidades e qu
 - ### 📨 **Connect wiht me:**
 Estou sempre em busca de novas colaborações e desafios no mundo da tecnologia. Fique à vontade para me contatar; ficarei feliz em explorar como posso contribuir para sua equipe!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=header"/>
+<img width=100% src="https://github.com/user-attachments/assets/859bc13b-f951-449b-9744-3eeaa6ccec1b"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Bruno+Lima;I'm+18+years+old;I+from+Brazil;I+Traing+in+Front+End;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">  
@@ -99,4 +99,4 @@ Estou sempre em busca de novas colaborações e desafios no mundo da tecnologia.
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=120&section=footer"/>
